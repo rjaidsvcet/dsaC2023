@@ -1,2 +1,3 @@
 # Data Structures Lab
-CSL301 important experiments implementation using C programming language
+List of experiments are as follows
+1. Implement Stack ADT using array
